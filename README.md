@@ -11,17 +11,18 @@
 </p>
 <h1 align="center">Hi 👋, I'm M. Arif Rahmawan</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
-<h4 align="center"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
-<h4 align="center"> :mailbox_with_mail: How to reach me: marifrahmawan@gmail.com <h4/>
+<h4 align="left"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
+<h4 align="left"> :mailbox_with_mail: How to reach me: marifrahmawan@gmail.com <h4/>
 
-<h4 align="center"> :monocle_face: I'm currently looking for new opportunities <h4/>
+<h4 align="left"> :monocle_face: I'm currently looking for new opportunities <h4/>
 
-<p align="center"> 
+<h4>:computer: Technology i use : <h4/>
+<p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img 
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />

@@ -1,15 +1,27 @@
-<h1 align="left">Hi 👋, I'm M. Arif Rahmawan</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-arif-rahmawan-751775131/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://web.facebook.com/marifrahmawan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_arifrahmawan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+</p>
+<h1 align="center">Hi 👋, I'm M. Arif Rahmawan</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-##### :dart: I’m currently learning Web Development and other programming language. <br/>
-##### 📫 How to reach me marifrahmawan@gmail.com
 
-### :computer: Tech i love to use:
+<h4 align="center"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
+<h4 align="center"> :mailbox_with_mail: How to reach me marifrahmawan@gmail.com <h4/>
 
-<p align="left"> 
+<h3 align="center"> :monocle_face: I'm currenly looking for new opportunities<h3/>
+
+<p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img 
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />

@@ -17,11 +17,10 @@
 
 
 <h4 align="left"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
-<h4 align="left"> :mailbox_with_mail: How to reach me: marifrahmawan@gmail.com <h4/>
+<h4 align="left"> ⚡ I'm trying to become a Full-Stack Developer.
+<h4 align="left"> :monocle_face: I'm currently looking for new opportunities and get experience. <h4/>
 
-<h4 align="left"> :monocle_face: I'm currently looking for new opportunities <h4/>
-
-<h4>:computer: Technology i use : <h4/>
+<h4>:computer: Passionate about this technology : <h4/>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img 

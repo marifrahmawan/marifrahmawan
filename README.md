@@ -17,7 +17,7 @@
 
 
 <h4 align="center"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
-<h4 align="center"> :mailbox_with_mail: How to reach me? send to <b>marifrahmawan@gmail.com<b/> <h4/>
+<h4 align="center"> :mailbox_with_mail: How to reach me: marifrahmawan@gmail.com <h4/>
 
 <h4 align="center"> :monocle_face: I'm currently looking for new opportunities <h4/>
 

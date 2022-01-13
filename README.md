@@ -19,7 +19,7 @@
 <h4 align="center"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
 <h4 align="center"> :mailbox_with_mail: How to reach me marifrahmawan@gmail.com <h4/>
 
-<h3 align="center"> :monocle_face: I'm currenly looking for new opportunities<h3/>
+<h4 align="center"> :monocle_face: I'm currenly looking for new opportunities <h4/>
 
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">

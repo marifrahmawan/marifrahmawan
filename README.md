@@ -12,7 +12,7 @@
 <h1 align="center">Hi 👋, I'm M. Arif Rahmawan</h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learn%20something%20everyday;Must%20improve%20everyday;Rose+are+Red+%20+Violet+are+Blue;There's+an+error+on+line+32&center=false&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always+learn+something+everyday;Must+improve+everyday;Rose+are+Red,+%20+Violet+are+Blue;There's+an+error+on+line+32&center=false&width=500&height=50"></a>
 </p>
 
 

@@ -15,7 +15,7 @@
 <h4 align="left"> ⚡ I'm trying to become a Full-Stack Developer.
 <h4 align="left"> :monocle_face: I'm currently looking for new opportunities and get experience. <h4/>
 
-<h4>:computer: Passionate about this technology : <h4/>
+<h4>:computer: Passionate about this tech : <h4/>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img 

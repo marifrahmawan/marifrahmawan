@@ -11,11 +11,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm M. Arif Rahmawan</h1>
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Kaizen+-+1%+better+everyday;Rose+are+Red,+%20+Violet+are+Blue;There's+an+error+on+line+32&center=false&width=500&height=50"></a>
-</p>
-
-
 <h4 align="left"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
 <h4 align="left"> ⚡ I'm trying to become a Full-Stack Developer.
 <h4 align="left"> :monocle_face: I'm currently looking for new opportunities and get experience. <h4/>

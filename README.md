@@ -11,7 +11,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm M. Arif Rahmawan</h1>
 
-<h4 align="left"> :dart: I’m learning Web Development and other programming language everyday. <h4/>
+<h4 align="left"> :dart: I’m still learning Web Development and other programming language<h4/>
 <h4 align="left"> ⚡ I'm trying to become a Full-Stack Developer.
 <h4 align="left"> :monocle_face: I'm currently looking for new opportunities and get experience. <h4/>
 

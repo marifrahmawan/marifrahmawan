@@ -15,7 +15,7 @@
 </p>
 
 <h4 align="left"> :dart: I’m still learning Web Development and other programming language<h4/>
-<h4 align="left"> ⚡ I'm trying to become a Full-Stack Developer.
+<h4 align="left"> ⚡ I'm trying to become a Full-Stack Developer.  <h4/>
 <h4 align="left"> :monocle_face: I'm currently looking for new opportunities and get experience. <h4/>
 
 <h4>:computer: Passionate about this tech : <h4/>
